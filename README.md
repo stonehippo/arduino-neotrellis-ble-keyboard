@@ -8,6 +8,8 @@ You can design and build your own case, or you can get the handy [NeoTrellis enc
 
 ## Dependencies
 
+I built this with the Arduino IDE, for simplicity sake, as I was planning to share the code with someone new to coding and embedded hardware. It will work as-is with the Arduino CLI, and with minimal changes in PlatformIO (mostly just adding the standard project structure).
+
 - [Adafruit nRF52 Board Support](https://learn.adafruit.com/bluefruit-nrf52-feather-learning-guide/arduino-bsp-setup)
 - [Adafruit Seesaw Library](https://github.com/adafruit/Adafruit_Seesaw) - provides an API for the NeoTrellis
 
